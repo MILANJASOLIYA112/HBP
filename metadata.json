@@ -1,0 +1,7 @@
+{
+  "name": "HBP Master - Health Benefit Package & Pre-Auth Tariff Explorer",
+  "description": "Enterprise Health Benefit Package (HBP) master explorer, pre-authorization document auditor, tariff & implant calculator, and clinical claim compliance portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
